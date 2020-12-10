@@ -11,6 +11,7 @@
               <xpath expr="//field[@name='barcode']" position="after">
                   <field name="variable1" placeholder="S,L,unisex"/>
                   <field name="variable1" placeholder="chute green (459),icemint (329),etc"/>
+                  <field name="marca" placeholder="Marca del producto"/>
               </xpath>
 
           </field>
